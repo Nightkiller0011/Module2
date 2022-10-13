@@ -4,7 +4,7 @@ This software is meant to demonstrate knowledge of Java by creating a class for 
 
 I wrote this code in order to keep track of members in your party during a DND Campaign.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SYoDcHZ1iao)
 
 # Development Environment
 
